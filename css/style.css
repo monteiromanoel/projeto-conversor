@@ -2,7 +2,7 @@
 /*General Settings*/
 @font-face {
     font-family: "open-dyslexic";
-    src: url(/font/OpenDyslexic-Regular.otf) format(opentype);
+    src: url(../font/OpenDyslexic-Regular.otf) format(opentype);
 }
 :root {
     --color1: #3f3ff8;
